@@ -5,7 +5,7 @@ title: Mahadev Manan Publisher Privacy Policy
 
 # Mahadev Manan Publisher — Privacy Policy
 
-Last updated: 24 October 2026
+Last updated: 6 November 2026
 
 Mahadev Manan Publisher is operated by the owner of the Mahadev Manan social accounts. It creates and publishes devotional videos to accounts explicitly authorized by their owner. It does not offer public sign-up.
 
@@ -15,7 +15,7 @@ The tool uses authorized account and Page identifiers, access tokens, publishing
 
 ## Purpose and service providers
 
-Information is used to create videos, publish to authorized accounts, confirm publication, prevent duplicate posts, recover failed operations and send operational failure alerts. Google Cloud processes content-generation requests. GitHub Actions runs the automation and stores encrypted publishing credentials and private job metadata. YouTube and Meta receive submitted videos and metadata. The configured email provider processes operational alerts. Stock media comes from licensed sources. This policy does not govern these providers’ own services.
+Information is used to create videos, publish to authorized accounts, confirm publication, prevent duplicate posts, recover failed operations and send operational failure alerts. Google Cloud processes content-generation requests. GitHub Actions runs the automation and stores encrypted publishing credentials and private job metadata. YouTube, Meta and TikTok receive videos and metadata submitted to their services. Direct TikTok API integration is currently being configured and tested; public automatic TikTok posting requires platform approval. The configured email provider processes operational alerts. Stock media comes from licensed sources. This policy does not govern these providers’ own services.
 
 ## Storage and retention
 
@@ -28,3 +28,7 @@ The account owner can stop scheduled publishing, revoke platform permissions, re
 ## Changes
 
 The operator will update this policy when the tool’s data practices change.
+
+## Terms of use
+
+See the [Terms of Use](terms.html) for the tool’s intended use and operator responsibilities.
